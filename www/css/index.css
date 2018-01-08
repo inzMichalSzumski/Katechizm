@@ -1,0 +1,13 @@
+.ui-header .ui-title, .ui-page .ui-title {
+    
+    white-space: normal;
+    font-size: 1.5em;
+    margin-right: 10%;
+    margin-left: 10%;
+    
+}
+
+.ui-btn {
+    white-space: normal;
+}
+
